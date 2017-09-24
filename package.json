@@ -47,7 +47,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -133,6 +134,75 @@
               "[@amir-hadzic](https://github.com/amir-hadzic)/[**jscommits**](https://github.com/amir-hadzic/jscommits)",
               "Javascript widget for showing latest github commits",
               "[:arrow_upper_right:](http://www.randomshouting.com/jscommits)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "132",
+              "[@codaxy](https://github.com/codaxy)/[**wkhtmltopdf**](https://github.com/codaxy/wkhtmltopdf)",
+              "C# wrapper around excellent wkhtmltopdf console utility.",
+              ""
+            ],
+            [
+              "25",
+              "[@borisdj](https://github.com/borisdj)/[**EFCore.BulkExtension…**](https://github.com/borisdj/EFCore.BulkExtensions)",
+              "EntityFrameworkCore Bulk Extensions for Insert Update and Delete (CUD) operations",
+              ""
+            ],
+            [
+              "17",
+              "[@codaxy](https://github.com/codaxy)/[**dextop**](https://github.com/codaxy/dextop)",
+              "Dextop is a framework for creating RIA based on .NET and Ext JS",
+              "[:arrow_upper_right:](http://dextop.codaxy.com/showcase/)"
+            ],
+            [
+              "12",
+              "[@codaxy](https://github.com/codaxy)/[**xlio**](https://github.com/codaxy/xlio)",
+              "Excel IO Library",
+              ""
+            ],
+            [
+              "7",
+              "[@bhrnjica](https://github.com/bhrnjica)/[**gpdotnet**](https://github.com/bhrnjica/gpdotnet)",
+              "C# implementation of the various algorithms based on Genetic Algorithm, Genetic Programming and Artificial Neural Networks.",
+              "[:arrow_upper_right:](http://bhrnjica.net/gpdotnet)"
+            ],
+            [
+              "7",
+              "[@codaxy](https://github.com/codaxy)/[**codereports**](https://github.com/codaxy/codereports)",
+              "Simple but powerful reporting library",
+              ""
+            ],
+            [
+              "4",
+              "[@codaxy](https://github.com/codaxy)/[**xsd2**](https://github.com/codaxy/xsd2)",
+              "Improved version of xsd.exe",
+              ""
+            ],
+            [
+              "2",
+              "[@dzlotrg](https://github.com/dzlotrg)/[**umbraco-dictionary-e…**](https://github.com/dzlotrg/umbraco-dictionary-export-import)",
+              "Export / Import dictionary items in umbraco backoffice",
+              "[:arrow_upper_right:](https://our.umbraco.org/projects/developer-tools/export-import-dictionary-items/)"
+            ],
+            [
+              "2",
+              "[@codaxy](https://github.com/codaxy)/[**dextop-localizer**](https://github.com/codaxy/dextop-localizer)",
+              "Localization tool",
+              ""
             ]
           ]
         }
