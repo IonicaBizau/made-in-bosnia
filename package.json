@@ -39,5 +39,104 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-bosnia/issues"
+  },
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "737",
+              "[@nenadg](https://github.com/nenadg)/[**traquer**](https://github.com/nenadg/traquer)",
+              "Records and reproduces user's in-page behavior",
+              ""
+            ],
+            [
+              "84",
+              "[@dsanel](https://github.com/dsanel)/[**mongoose-delete**](https://github.com/dsanel/mongoose-delete)",
+              "Mongoose Soft Delete Plugin",
+              ""
+            ],
+            [
+              "43",
+              "[@nenadg](https://github.com/nenadg)/[**twitter-stream-visua…**](https://github.com/nenadg/twitter-stream-visualization)",
+              "Visualizing realtime Twitter data using D3.js, node and several other things and libs",
+              "[:arrow_upper_right:](http://statick.org:3001)"
+            ],
+            [
+              "25",
+              "[@amir-hadzic](https://github.com/amir-hadzic)/[**uedit**](https://github.com/amir-hadzic/uedit)",
+              "Simple cross-browser markdown editor",
+              "[:arrow_upper_right:](http://www.randomshouting.com/uedit)"
+            ],
+            [
+              "7",
+              "[@nenadg](https://github.com/nenadg)/[**otvoreni-budzet**](https://github.com/nenadg/otvoreni-budzet)",
+              "Digitalnija verzija budžeta Republike Srpske",
+              ""
+            ],
+            [
+              "6",
+              "[@dsanel](https://github.com/dsanel)/[**mongodg**](https://github.com/dsanel/mongodg)",
+              "MongoDB Data Generator",
+              ""
+            ],
+            [
+              "5",
+              "[@nenadg](https://github.com/nenadg)/[**jasmine-node-jsdom-e…**](https://github.com/nenadg/jasmine-node-jsdom-extjs-testing-tool)",
+              "Functional front-end Ext.JS testing automation tool using jasmine-node and jsdom",
+              ""
+            ],
+            [
+              "4",
+              "[@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS**](https://github.com/stojankukrika/A2ZCMS)",
+              "A2ZCMS",
+              ""
+            ],
+            [
+              "4",
+              "[@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS-LF**](https://github.com/stojankukrika/A2ZCMS-LF)",
+              "A2Z CMS version with Laravel framework",
+              "[:arrow_upper_right:](http://a2zcms.mrakodol.info)"
+            ],
+            [
+              "2",
+              "[@nenadg](https://github.com/nenadg)/[**extjs-tag-cloud**](https://github.com/nenadg/extjs-tag-cloud)",
+              "Ext JS tag cloud component",
+              ""
+            ],
+            [
+              "2",
+              "[@elektronika-ba](https://github.com/elektronika-ba)/[**ctrl-server**](https://github.com/elektronika-ba/ctrl-server)",
+              "  NodeJS server for the CTRL IoT project",
+              "[:arrow_upper_right:](http://www.ctrl.ba)"
+            ],
+            [
+              "2",
+              "[@amir-hadzic](https://github.com/amir-hadzic)/[**jscommits**](https://github.com/amir-hadzic/jscommits)",
+              "Javascript widget for showing latest github commits",
+              "[:arrow_upper_right:](http://www.randomshouting.com/jscommits)"
+            ]
+          ]
+        }
+      }
+    ]
   }
 }
