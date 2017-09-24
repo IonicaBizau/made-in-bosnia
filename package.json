@@ -49,7 +49,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[C](undefined)"
         ]
       },
       {
@@ -236,6 +237,33 @@
               "2",
               "[@AlenR](https://github.com/AlenR)/[**interactive-resume-a…**](https://github.com/AlenR/interactive-resume-ar)",
               "Interactive Resume",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@ArekX](https://github.com/ArekX)/[**RAGE**](https://github.com/ArekX/RAGE)",
+              "R. A. G.E. - Ruby Awesome Game Engine, a 2D Game Engine using Ruby as Interpreter Language for Games!",
+              ""
+            ],
+            [
+              "3",
+              "[@Rox-](https://github.com/Rox-)/[**android_kernel_samsu…**](https://github.com/Rox-/android_kernel_samsung_s3ve3g)",
+              "Kernel for Samsung Galaxy S3 Neo",
               ""
             ]
           ]
