@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -286,6 +287,51 @@
               "8",
               "[@irajkovic](https://github.com/irajkovic)/[**visualization**](https://github.com/irajkovic/visualization)",
               "Realtime data visualization and control panel with graphical editor. Implemented in C++ and Qt.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "935",
+              "[@mrakodol](https://github.com/mrakodol)/[**Laravel-5-Bootstrap-…**](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site)",
+              "Laravel Framework 5 Bootstrap 3 Starter Site is a basic application with news, photo and video galeries.",
+              ""
+            ],
+            [
+              "80",
+              "[@vernes](https://github.com/vernes)/[**YiiMailer**](https://github.com/vernes/YiiMailer)",
+              "Yii extension for sending emails with layouts using PHPMailer",
+              ""
+            ],
+            [
+              "46",
+              "[@vernes](https://github.com/vernes)/[**PHPReport**](https://github.com/vernes/PHPReport)",
+              "Library for generating reports from PHP",
+              ""
+            ],
+            [
+              "13",
+              "[@adnanmiljkovic](https://github.com/adnanmiljkovic)/[**Google-Contacts-Data…**](https://github.com/adnanmiljkovic/Google-Contacts-Data-API-PHP)",
+              "Get e-mail contacts from Google Contacts Data API  with PHP",
+              ""
+            ],
+            [
+              "4",
+              "[@mrakodol](https://github.com/mrakodol)/[**admincistart**](https://github.com/mrakodol/admincistart)",
+              "codeigniter admin start project",
               ""
             ]
           ]
