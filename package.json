@@ -48,7 +48,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -202,6 +203,39 @@
               "2",
               "[@codaxy](https://github.com/codaxy)/[**dextop-localizer**](https://github.com/codaxy/dextop-localizer)",
               "Localization tool",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@klikaba](https://github.com/klikaba)/[**cms9**](https://github.com/klikaba/cms9)",
+              "CMS Engine for Rails",
+              "[:arrow_upper_right:](http://klika.ba/blog/cms9-admin-panel)"
+            ],
+            [
+              "6",
+              "[@r3bl](https://github.com/r3bl)/[**r3bl.github.io**](https://github.com/r3bl/r3bl.github.io)",
+              "The code behind my Jekyll-powered blog",
+              "[:arrow_upper_right:](https://blog.r3bl.me)"
+            ],
+            [
+              "2",
+              "[@AlenR](https://github.com/AlenR)/[**interactive-resume-a…**](https://github.com/AlenR/interactive-resume-ar)",
+              "Interactive Resume",
               ""
             ]
           ]
