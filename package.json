@@ -47,14 +47,7 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)",
-          "[C#](#c-1)",
-          "[CSS](#css)",
-          "[C](undefined)",
-          "[C++](#c-2)",
-          "[PHP](#php)",
-          "[Python](#python)",
-          "[Ruby](#ruby)"
+          "[JavaScript](#javascript)"
         ]
       },
       {
@@ -113,21 +106,21 @@
             ],
             [
               "4",
-              "[@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS**](https://github.com/stojankukrika/A2ZCMS)",
-              "A2ZCMS",
-              ""
-            ],
-            [
-              "4",
               "[@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS-LF**](https://github.com/stojankukrika/A2ZCMS-LF)",
               "A2Z CMS version with Laravel framework",
               "[:arrow_upper_right:](http://a2zcms.mrakodol.info)"
             ],
             [
-              "2",
-              "[@nenadg](https://github.com/nenadg)/[**extjs-tag-cloud**](https://github.com/nenadg/extjs-tag-cloud)",
-              "Ext JS tag cloud component",
+              "4",
+              "[@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS**](https://github.com/stojankukrika/A2ZCMS)",
+              "A2ZCMS",
               ""
+            ],
+            [
+              "2",
+              "[@amir-hadzic](https://github.com/amir-hadzic)/[**jscommits**](https://github.com/amir-hadzic/jscommits)",
+              "Javascript widget for showing latest github commits",
+              "[:arrow_upper_right:](http://www.randomshouting.com/jscommits)"
             ],
             [
               "2",
@@ -137,293 +130,8 @@
             ],
             [
               "2",
-              "[@amir-hadzic](https://github.com/amir-hadzic)/[**jscommits**](https://github.com/amir-hadzic/jscommits)",
-              "Javascript widget for showing latest github commits",
-              "[:arrow_upper_right:](http://www.randomshouting.com/jscommits)"
-            ]
-          ]
-        }
-      },
-      {
-        "h3": "C# #"
-      },
-      {
-        "table": {
-          "headers": [
-            ":star2:",
-            "Name",
-            "Description",
-            "🌍"
-          ],
-          "rows": [
-            [
-              "132",
-              "[@codaxy](https://github.com/codaxy)/[**wkhtmltopdf**](https://github.com/codaxy/wkhtmltopdf)",
-              "C# wrapper around excellent wkhtmltopdf console utility.",
-              ""
-            ],
-            [
-              "25",
-              "[@borisdj](https://github.com/borisdj)/[**EFCore.BulkExtension…**](https://github.com/borisdj/EFCore.BulkExtensions)",
-              "EntityFrameworkCore Bulk Extensions for Insert Update and Delete (CUD) operations",
-              ""
-            ],
-            [
-              "17",
-              "[@codaxy](https://github.com/codaxy)/[**dextop**](https://github.com/codaxy/dextop)",
-              "Dextop is a framework for creating RIA based on .NET and Ext JS",
-              "[:arrow_upper_right:](http://dextop.codaxy.com/showcase/)"
-            ],
-            [
-              "12",
-              "[@codaxy](https://github.com/codaxy)/[**xlio**](https://github.com/codaxy/xlio)",
-              "Excel IO Library",
-              ""
-            ],
-            [
-              "7",
-              "[@bhrnjica](https://github.com/bhrnjica)/[**gpdotnet**](https://github.com/bhrnjica/gpdotnet)",
-              "C# implementation of the various algorithms based on Genetic Algorithm, Genetic Programming and Artificial Neural Networks.",
-              "[:arrow_upper_right:](http://bhrnjica.net/gpdotnet)"
-            ],
-            [
-              "7",
-              "[@codaxy](https://github.com/codaxy)/[**codereports**](https://github.com/codaxy/codereports)",
-              "Simple but powerful reporting library",
-              ""
-            ],
-            [
-              "4",
-              "[@codaxy](https://github.com/codaxy)/[**xsd2**](https://github.com/codaxy/xsd2)",
-              "Improved version of xsd.exe",
-              ""
-            ],
-            [
-              "2",
-              "[@dzlotrg](https://github.com/dzlotrg)/[**umbraco-dictionary-e…**](https://github.com/dzlotrg/umbraco-dictionary-export-import)",
-              "Export / Import dictionary items in umbraco backoffice",
-              "[:arrow_upper_right:](https://our.umbraco.org/projects/developer-tools/export-import-dictionary-items/)"
-            ],
-            [
-              "2",
-              "[@codaxy](https://github.com/codaxy)/[**dextop-localizer**](https://github.com/codaxy/dextop-localizer)",
-              "Localization tool",
-              ""
-            ]
-          ]
-        }
-      },
-      {
-        "h3": "CSS #"
-      },
-      {
-        "table": {
-          "headers": [
-            ":star2:",
-            "Name",
-            "Description",
-            "🌍"
-          ],
-          "rows": [
-            [
-              "7",
-              "[@klikaba](https://github.com/klikaba)/[**cms9**](https://github.com/klikaba/cms9)",
-              "CMS Engine for Rails",
-              "[:arrow_upper_right:](http://klika.ba/blog/cms9-admin-panel)"
-            ],
-            [
-              "6",
-              "[@r3bl](https://github.com/r3bl)/[**r3bl.github.io**](https://github.com/r3bl/r3bl.github.io)",
-              "The code behind my Jekyll-powered blog",
-              "[:arrow_upper_right:](https://blog.r3bl.me)"
-            ],
-            [
-              "2",
-              "[@AlenR](https://github.com/AlenR)/[**interactive-resume-a…**](https://github.com/AlenR/interactive-resume-ar)",
-              "Interactive Resume",
-              ""
-            ]
-          ]
-        }
-      },
-      {
-        "h3": "C #"
-      },
-      {
-        "table": {
-          "headers": [
-            ":star2:",
-            "Name",
-            "Description",
-            "🌍"
-          ],
-          "rows": [
-            [
-              "4",
-              "[@ArekX](https://github.com/ArekX)/[**RAGE**](https://github.com/ArekX/RAGE)",
-              "R. A. G.E. - Ruby Awesome Game Engine, a 2D Game Engine using Ruby as Interpreter Language for Games!",
-              ""
-            ],
-            [
-              "3",
-              "[@Rox-](https://github.com/Rox-)/[**android_kernel_samsu…**](https://github.com/Rox-/android_kernel_samsung_s3ve3g)",
-              "Kernel for Samsung Galaxy S3 Neo",
-              ""
-            ]
-          ]
-        }
-      },
-      {
-        "h3": "C++ #"
-      },
-      {
-        "table": {
-          "headers": [
-            ":star2:",
-            "Name",
-            "Description",
-            "🌍"
-          ],
-          "rows": [
-            [
-              "8",
-              "[@irajkovic](https://github.com/irajkovic)/[**visualization**](https://github.com/irajkovic/visualization)",
-              "Realtime data visualization and control panel with graphical editor. Implemented in C++ and Qt.",
-              ""
-            ]
-          ]
-        }
-      },
-      {
-        "h3": "PHP #"
-      },
-      {
-        "table": {
-          "headers": [
-            ":star2:",
-            "Name",
-            "Description",
-            "🌍"
-          ],
-          "rows": [
-            [
-              "935",
-              "[@mrakodol](https://github.com/mrakodol)/[**Laravel-5-Bootstrap-…**](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site)",
-              "Laravel Framework 5 Bootstrap 3 Starter Site is a basic application with news, photo and video galeries.",
-              ""
-            ],
-            [
-              "80",
-              "[@vernes](https://github.com/vernes)/[**YiiMailer**](https://github.com/vernes/YiiMailer)",
-              "Yii extension for sending emails with layouts using PHPMailer",
-              ""
-            ],
-            [
-              "46",
-              "[@vernes](https://github.com/vernes)/[**PHPReport**](https://github.com/vernes/PHPReport)",
-              "Library for generating reports from PHP",
-              ""
-            ],
-            [
-              "13",
-              "[@adnanmiljkovic](https://github.com/adnanmiljkovic)/[**Google-Contacts-Data…**](https://github.com/adnanmiljkovic/Google-Contacts-Data-API-PHP)",
-              "Get e-mail contacts from Google Contacts Data API  with PHP",
-              ""
-            ],
-            [
-              "4",
-              "[@mrakodol](https://github.com/mrakodol)/[**admincistart**](https://github.com/mrakodol/admincistart)",
-              "codeigniter admin start project",
-              ""
-            ]
-          ]
-        }
-      },
-      {
-        "h3": "Python #"
-      },
-      {
-        "table": {
-          "headers": [
-            ":star2:",
-            "Name",
-            "Description",
-            "🌍"
-          ],
-          "rows": [
-            [
-              "22",
-              "[@aleksandar-todorovic](https://github.com/aleksandar-todorovic)/[**notes**](https://github.com/aleksandar-todorovic/notes)",
-              "A place where I'm sharing my notes on various subjects.",
-              ""
-            ],
-            [
-              "6",
-              "[@aleksandar-todorovic](https://github.com/aleksandar-todorovic)/[**indicator-github**](https://github.com/aleksandar-todorovic/indicator-github)",
-              "Simple GitHub notifications indicator for elementary OS Freya, Ubuntu and its derivates.",
-              ""
-            ],
-            [
-              "4",
-              "[@AmarKalabic](https://github.com/AmarKalabic)/[**Football-Stream-Find…**](https://github.com/AmarKalabic/Football-Stream-Finder--Flask-)",
-              "Small Flask app that fetches stream links for football/soccer games",
-              ""
-            ],
-            [
-              "4",
-              "[@amarsahinovic](https://github.com/amarsahinovic)/[**django-project-templ…**](https://github.com/amarsahinovic/django-project-template)",
-              "Django project template with Zurb Foundation included",
-              ""
-            ],
-            [
-              "3",
-              "[@amarsahinovic](https://github.com/amarsahinovic)/[**gb**](https://github.com/amarsahinovic/gb)",
-              "Goto Bookmark",
-              ""
-            ],
-            [
-              "3",
-              "[@C-REMO](https://github.com/C-REMO)/[**Deobscure-IP-Deobfus…**](https://github.com/C-REMO/Deobscure-IP-Deobfuscator)",
-              "IP deobfuscator can be used to convert obfuscated ip back ti it's original dotted value from integer, octal or hexadecimal value (or even combination of those)",
-              ""
-            ],
-            [
-              "2",
-              "[@segvic](https://github.com/segvic)/[**plugin.video.mojaweb…**](https://github.com/segvic/plugin.video.mojawebtv)",
-              "Moja webTV",
-              ""
-            ]
-          ]
-        }
-      },
-      {
-        "h3": "Ruby #"
-      },
-      {
-        "table": {
-          "headers": [
-            ":star2:",
-            "Name",
-            "Description",
-            "🌍"
-          ],
-          "rows": [
-            [
-              "28",
-              "[@sidonath](https://github.com/sidonath)/[**room-reservation**](https://github.com/sidonath/room-reservation)",
-              "",
-              ""
-            ],
-            [
-              "5",
-              "[@hkraji](https://github.com/hkraji)/[**mx-validator**](https://github.com/hkraji/mx-validator)",
-              "Validate emails via MX records",
-              "[:arrow_upper_right:](https://rubygems.org/gems/mx-validator/versions/0.0.1)"
-            ],
-            [
-              "2",
-              "[@hkraji](https://github.com/hkraji)/[**fertilizer**](https://github.com/hkraji/fertilizer)",
-              "Set of tasks that allows us to enrich our Rails projects.",
+              "[@nenadg](https://github.com/nenadg)/[**extjs-tag-cloud**](https://github.com/nenadg/extjs-tag-cloud)",
+              "Ext JS tag cloud component",
               ""
             ]
           ]
