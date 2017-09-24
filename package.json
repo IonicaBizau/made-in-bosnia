@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -332,6 +333,63 @@
               "4",
               "[@mrakodol](https://github.com/mrakodol)/[**admincistart**](https://github.com/mrakodol/admincistart)",
               "codeigniter admin start project",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "22",
+              "[@aleksandar-todorovic](https://github.com/aleksandar-todorovic)/[**notes**](https://github.com/aleksandar-todorovic/notes)",
+              "A place where I'm sharing my notes on various subjects.",
+              ""
+            ],
+            [
+              "6",
+              "[@aleksandar-todorovic](https://github.com/aleksandar-todorovic)/[**indicator-github**](https://github.com/aleksandar-todorovic/indicator-github)",
+              "Simple GitHub notifications indicator for elementary OS Freya, Ubuntu and its derivates.",
+              ""
+            ],
+            [
+              "4",
+              "[@AmarKalabic](https://github.com/AmarKalabic)/[**Football-Stream-Find…**](https://github.com/AmarKalabic/Football-Stream-Finder--Flask-)",
+              "Small Flask app that fetches stream links for football/soccer games",
+              ""
+            ],
+            [
+              "4",
+              "[@amarsahinovic](https://github.com/amarsahinovic)/[**django-project-templ…**](https://github.com/amarsahinovic/django-project-template)",
+              "Django project template with Zurb Foundation included",
+              ""
+            ],
+            [
+              "3",
+              "[@C-REMO](https://github.com/C-REMO)/[**Deobscure-IP-Deobfus…**](https://github.com/C-REMO/Deobscure-IP-Deobfuscator)",
+              "IP deobfuscator can be used to convert obfuscated ip back ti it's original dotted value from integer, octal or hexadecimal value (or even combination of those)",
+              ""
+            ],
+            [
+              "3",
+              "[@amarsahinovic](https://github.com/amarsahinovic)/[**gb**](https://github.com/amarsahinovic/gb)",
+              "Goto Bookmark",
+              ""
+            ],
+            [
+              "2",
+              "[@segvic](https://github.com/segvic)/[**plugin.video.mojaweb…**](https://github.com/segvic/plugin.video.mojawebtv)",
+              "Moja webTV",
               ""
             ]
           ]
