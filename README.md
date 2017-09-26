@@ -17,6 +17,7 @@
  - [PHP](#php)
  - [Python](#python)
  - [Ruby](#ruby)
+ - [Scala](#scala)
 
 ### JavaScript #
 
