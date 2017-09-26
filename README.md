@@ -100,6 +100,12 @@
 5 | [@hkraji](https://github.com/hkraji)/[**mx-validator**](https://github.com/hkraji/mx-validator) | Validate emails via MX records | [:arrow_upper_right:](https://rubygems.org/gems/mx-validator/versions/0.0.1)
 2 | [@hkraji](https://github.com/hkraji)/[**fertilizer**](https://github.com/hkraji/fertilizer) | Set of tasks that allows us to enrich our Rails projects. |
 
+### Scala #
+
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+5 | [@sake92](https://github.com/sake92)/[**sbt-hepek**](https://github.com/sake92/sbt-hepek) | Sbt plugin for rendering static web sites. And more! |
+1 | [@sake92](https://github.com/sake92)/[**sake-ba-source**](https://github.com/sake92/sake-ba-source) | sake.ba source code | [:arrow_upper_right:](https://sake.ba)
 
 ## :clipboard: Example
 

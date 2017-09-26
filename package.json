@@ -54,7 +54,8 @@
           "[C++](#c-2)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -425,6 +426,33 @@
               "[@hkraji](https://github.com/hkraji)/[**fertilizer**](https://github.com/hkraji/fertilizer)",
               "Set of tasks that allows us to enrich our Rails projects.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5",
+              "[@sake92](https://github.com/sake92)/[**sbt-hepek**](https://github.com/sake92/sbt-hepek)",
+              "Sbt plugin for rendering static web sites. And more!",
+              ""
+            ],
+            [
+              "1",
+              "[@sake92](https://github.com/sake92)/[**sake-ba-source**](https://github.com/sake92/sake-ba-source)",
+              "sake.ba source code",
+              "[:arrow_upper_right:](https://sake.ba)"
             ]
           ]
         }
