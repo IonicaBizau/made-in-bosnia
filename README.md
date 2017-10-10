@@ -120,6 +120,7 @@
 
 ### TypeScript #
 
+:star2: | Name | Description | 🌍
 --- | --- | --- | ---
 875 | [@vladotesanovic](https://github.com/vladotesanovic)/[**ngSemantic**](https://github.com/vladotesanovic/ngSemantic) | Angular 2 building blocks 📦 based on Semantic UI. |
 
