@@ -33,10 +33,10 @@
 4 | [@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS-LF**](https://github.com/stojankukrika/A2ZCMS-LF) | A2Z CMS version with Laravel framework | [:arrow_upper_right:](http://a2zcms.mrakodol.info)
 4 | [@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS**](https://github.com/stojankukrika/A2ZCMS) | A2ZCMS |
 3 | [@TheAdnan](https://github.com/TheAdnan)/[**BuVRek**](https://github.com/TheAdnan/BuVRek) | Virtual Burek | [:arrow_upper_right:](https://virtual-burek.glitch.me/)
+3 | [@TheAdnan](https://github.com/TheAdnan)/[**focustube**](https://github.com/TheAdnan/focustube) | Firefox WebExtension for watching YouTube videos while scrolling down the comments  | [:arrow_upper_right:](https://addons.mozilla.org/en-US/firefox/addon/focus-tube/)
 2 | [@amir-hadzic](https://github.com/amir-hadzic)/[**jscommits**](https://github.com/amir-hadzic/jscommits) | Javascript widget for showing latest github commits | [:arrow_upper_right:](http://www.randomshouting.com/jscommits)
 2 | [@elektronika-ba](https://github.com/elektronika-ba)/[**ctrl-server**](https://github.com/elektronika-ba/ctrl-server) |   NodeJS server for the CTRL IoT project | [:arrow_upper_right:](http://www.ctrl.ba)
 2 | [@nenadg](https://github.com/nenadg)/[**extjs-tag-cloud**](https://github.com/nenadg/extjs-tag-cloud) | Ext JS tag cloud component |
-2 | [@TheAdnan](https://github.com/TheAdnan)/[**focustube**](https://github.com/TheAdnan/focustube) | Firefox WebExtension for watching YouTube videos while scrolling down the comments  | [:arrow_upper_right:](https://addons.mozilla.org/en-US/firefox/addon/focus-tube/)
 
 ### C# #
 
