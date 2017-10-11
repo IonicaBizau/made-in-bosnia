@@ -14,10 +14,12 @@
  - [CSS](#css)
  - [C](undefined)
  - [C++](#c-2)
+ - [Go](#go)
  - [PHP](#php)
  - [Python](#python)
  - [Ruby](#ruby)
  - [Scala](#scala)
+ - [TypeScript](#typescript)
 
 ### JavaScript #
 
@@ -73,6 +75,12 @@
 --- | --- | --- | ---
 8 | [@irajkovic](https://github.com/irajkovic)/[**visualization**](https://github.com/irajkovic/visualization) | Realtime data visualization and control panel with graphical editor. Implemented in C++ and Qt. |
 
+### Go #
+
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+2088 | [@adnanh](https://github.com/adnanh)/[**webhook**](https://github.com/adnanh/webhook) | Webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands. |
+
 ### PHP #
 
 :star2: | Name | Description | 🌍
@@ -110,16 +118,20 @@
 5 | [@sake92](https://github.com/sake92)/[**sbt-hepek**](https://github.com/sake92/sbt-hepek) | Sbt plugin for rendering static web sites. And more! |
 1 | [@sake92](https://github.com/sake92)/[**sake-ba-source**](https://github.com/sake92/sake-ba-source) | sake.ba source code | [:arrow_upper_right:](https://sake.ba)
 
+### TypeScript #
+
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+875 | [@vladotesanovic](https://github.com/vladotesanovic)/[**ngSemantic**](https://github.com/vladotesanovic/ngSemantic) | Angular 2 building blocks 📦 based on Semantic UI. |
+
+
 ## :clipboard: Example
-
-
 
 ```js
 const madeInBosnia = require("made-in-bosnia");
 
 console.log(madeInBosnia());
 ```
-
 
 
 ## :question: Get Help

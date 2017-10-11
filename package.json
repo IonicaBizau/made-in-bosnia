@@ -52,10 +52,12 @@
           "[CSS](#css)",
           "[C](undefined)",
           "[C++](#c-2)",
+          "[Go](#go)",
           "[PHP](#php)",
           "[Python](#python)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[TypeScript](#typescript)",
         ]
       },
       {
@@ -308,6 +310,27 @@
         }
       },
       {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@adnanh](https://github.com/adnanh)/[**webhook**](https://github.com/adnanh/webhook)",
+              "Webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
         "h3": "PHP #"
       },
       {
@@ -465,6 +488,27 @@
               "[@sake92](https://github.com/sake92)/[**sake-ba-source**](https://github.com/sake92/sake-ba-source)",
               "sake.ba source code",
               "[:arrow_upper_right:](https://sake.ba)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TypeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "875",
+              "[@vladotesanovic](https://github.com/vladotesanovic)/[**ngSemantic**](https://github.com/vladotesanovic/ngSemantic)",
+              "Angular 2 building blocks 📦 based on Semantic UI.",
+              ""
             ]
           ]
         }
