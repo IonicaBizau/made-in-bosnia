@@ -29,9 +29,11 @@
 84 | [@dsanel](https://github.com/dsanel)/[**mongoose-delete**](https://github.com/dsanel/mongoose-delete) | Mongoose Soft Delete Plugin |
 43 | [@nenadg](https://github.com/nenadg)/[**twitter-stream-visua…**](https://github.com/nenadg/twitter-stream-visualization) | Visualizing realtime Twitter data using D3.js, node and several other things and libs | [:arrow_upper_right:](http://statick.org:3001)
 25 | [@amir-hadzic](https://github.com/amir-hadzic)/[**uedit**](https://github.com/amir-hadzic/uedit) | Simple cross-browser markdown editor | [:arrow_upper_right:](http://www.randomshouting.com/uedit)
+22 | [@adnanrahic](https://github.com/adnanrahic/nodejs-restful-api)/[**nodejs-restful-api**](https://github.com/adnanrahic/nodejs-restful-api) | Simple Node.js REST API Tutorial |
 7 | [@nenadg](https://github.com/nenadg)/[**otvoreni-budzet**](https://github.com/nenadg/otvoreni-budzet) | Digitalnija verzija budžeta Republike Srpske |
 6 | [@dsanel](https://github.com/dsanel)/[**mongodg**](https://github.com/dsanel/mongodg) | MongoDB Data Generator |
 5 | [@nenadg](https://github.com/nenadg)/[**jasmine-node-jsdom-e…**](https://github.com/nenadg/jasmine-node-jsdom-extjs-testing-tool) | Functional front-end Ext.JS testing automation tool using jasmine-node and jsdom |
+4 | [@adnanrahic](https://github.com/adnanrahic/boilerplate-api)/[**boilerplate-api**](https://github.com/adnanrahic/boilerplate-api) | This is a lightweight Node.js boilerplate API with Docker support, test coverage and CircleCi support. |
 4 | [@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS-LF**](https://github.com/stojankukrika/A2ZCMS-LF) | A2Z CMS version with Laravel framework | [:arrow_upper_right:](http://a2zcms.mrakodol.info)
 4 | [@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS**](https://github.com/stojankukrika/A2ZCMS) | A2ZCMS |
 3 | [@TheAdnan](https://github.com/TheAdnan)/[**BuVRek**](https://github.com/TheAdnan/BuVRek) | Virtual Burek | [:arrow_upper_right:](https://virtual-burek.glitch.me/)
