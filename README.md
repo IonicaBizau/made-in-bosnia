@@ -32,12 +32,13 @@
 23 | [@adnanrahic](https://github.com/adnanrahic/nodejs-restful-api)/[**nodejs-restful-api**](https://github.com/adnanrahic/nodejs-restful-api) | Simple Node.js REST API Tutorial |
 7 | [@nenadg](https://github.com/nenadg)/[**otvoreni-budzet**](https://github.com/nenadg/otvoreni-budzet) | Digitalnija verzija budžeta Republike Srpske |
 6 | [@dsanel](https://github.com/dsanel)/[**mongodg**](https://github.com/dsanel/mongodg) | MongoDB Data Generator |
+6 | [@TheAdnan](https://github.com/TheAdnan)/[**focustube**](https://github.com/TheAdnan/focustube) | Firefox WebExtension for watching YouTube videos while scrolling down the comments  | [:arrow_upper_right:](https://addons.mozilla.org/en-US/firefox/addon/focus-tube/)
+6 | [@TheAdnan](https://github.com/TheAdnan)/[**Botnjak**](https://github.com/TheAdnan/Botnjak) | Twitter bot script written in PHP | [:arrow_upper_right:](https://twitter.com/botnjak)
 5 | [@nenadg](https://github.com/nenadg)/[**jasmine-node-jsdom-e…**](https://github.com/nenadg/jasmine-node-jsdom-extjs-testing-tool) | Functional front-end Ext.JS testing automation tool using jasmine-node and jsdom |
 5 | [@adnanrahic](https://github.com/adnanrahic/boilerplate-api)/[**boilerplate-api**](https://github.com/adnanrahic/boilerplate-api) | Lightweight Node.js boilerplate API with Docker support, test coverage and CircleCi support. |
 4 | [@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS-LF**](https://github.com/stojankukrika/A2ZCMS-LF) | A2Z CMS version with Laravel framework | [:arrow_upper_right:](http://a2zcms.mrakodol.info)
 4 | [@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS**](https://github.com/stojankukrika/A2ZCMS) | A2ZCMS |
-3 | [@TheAdnan](https://github.com/TheAdnan)/[**BuVRek**](https://github.com/TheAdnan/BuVRek) | Virtual Burek | [:arrow_upper_right:](https://virtual-burek.glitch.me/)
-3 | [@TheAdnan](https://github.com/TheAdnan)/[**focustube**](https://github.com/TheAdnan/focustube) | Firefox WebExtension for watching YouTube videos while scrolling down the comments  | [:arrow_upper_right:](https://addons.mozilla.org/en-US/firefox/addon/focus-tube/)
+4 | [@TheAdnan](https://github.com/TheAdnan)/[**BuVRek**](https://github.com/TheAdnan/BuVRek) | Virtual Burek | [:arrow_upper_right:](https://virtual-burek.glitch.me/)
 2 | [@amir-hadzic](https://github.com/amir-hadzic)/[**jscommits**](https://github.com/amir-hadzic/jscommits) | Javascript widget for showing latest github commits | [:arrow_upper_right:](http://www.randomshouting.com/jscommits)
 2 | [@elektronika-ba](https://github.com/elektronika-ba)/[**ctrl-server**](https://github.com/elektronika-ba/ctrl-server) |   NodeJS server for the CTRL IoT project | [:arrow_upper_right:](http://www.ctrl.ba)
 2 | [@nenadg](https://github.com/nenadg)/[**extjs-tag-cloud**](https://github.com/nenadg/extjs-tag-cloud) | Ext JS tag cloud component |
