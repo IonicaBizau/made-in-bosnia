@@ -26,16 +26,18 @@
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 737 | [@nenadg](https://github.com/nenadg)/[**traquer**](https://github.com/nenadg/traquer) | Records and reproduces user's in-page behavior |
+85 | [@adnanrahic](https://github.com/adnanrahic)/[**nodejs-restful-api**](https://github.com/adnanrahic/nodejs-restful-api) | Simple Node.js REST API Tutorial |
 84 | [@dsanel](https://github.com/dsanel)/[**mongoose-delete**](https://github.com/dsanel/mongoose-delete) | Mongoose Soft Delete Plugin |
+66 | [@adnanrahic](https://github.com/adnanrahic)/[**securing-restful-apis-with-jwt**](securing-restful-apis-with-jwt) | How to secure a Nodejs RESTful CRUD API using JSON web tokens?  |
 43 | [@nenadg](https://github.com/nenadg)/[**twitter-stream-visua…**](https://github.com/nenadg/twitter-stream-visualization) | Visualizing realtime Twitter data using D3.js, node and several other things and libs | [:arrow_upper_right:](http://statick.org:3001)
 25 | [@amir-hadzic](https://github.com/amir-hadzic)/[**uedit**](https://github.com/amir-hadzic/uedit) | Simple cross-browser markdown editor | [:arrow_upper_right:](http://www.randomshouting.com/uedit)
-23 | [@adnanrahic](https://github.com/adnanrahic/nodejs-restful-api)/[**nodejs-restful-api**](https://github.com/adnanrahic/nodejs-restful-api) | Simple Node.js REST API Tutorial |
+9 | [@adnanrahic](https://github.com/adnanrahic)/[**boilerplate-api**](https://github.com/adnanrahic/boilerplate-api) | Lightweight Node.js boilerplate API with Docker support, test coverage and CircleCi support. |
 7 | [@nenadg](https://github.com/nenadg)/[**otvoreni-budzet**](https://github.com/nenadg/otvoreni-budzet) | Digitalnija verzija budžeta Republike Srpske |
 6 | [@dsanel](https://github.com/dsanel)/[**mongodg**](https://github.com/dsanel/mongodg) | MongoDB Data Generator |
 6 | [@TheAdnan](https://github.com/TheAdnan)/[**focustube**](https://github.com/TheAdnan/focustube) | Firefox WebExtension for watching YouTube videos while scrolling down the comments  | [:arrow_upper_right:](https://addons.mozilla.org/en-US/firefox/addon/focus-tube/)
 6 | [@TheAdnan](https://github.com/TheAdnan)/[**Botnjak**](https://github.com/TheAdnan/Botnjak) | Twitter bot script written in PHP | [:arrow_upper_right:](https://twitter.com/botnjak)
 5 | [@nenadg](https://github.com/nenadg)/[**jasmine-node-jsdom-e…**](https://github.com/nenadg/jasmine-node-jsdom-extjs-testing-tool) | Functional front-end Ext.JS testing automation tool using jasmine-node and jsdom |
-5 | [@adnanrahic](https://github.com/adnanrahic/boilerplate-api)/[**boilerplate-api**](https://github.com/adnanrahic/boilerplate-api) | Lightweight Node.js boilerplate API with Docker support, test coverage and CircleCi support. |
+5 | [@adnanrahic](https://github.com/adnanrahic)/[**meetup-lucky-winner-generator**](https://github.com/adnanrahic/meetup-lucky-winner-generator) | A simple package with zero dependencies for generating lucky winners if there is a free coupon giveaway at a Meetup event! |
 4 | [@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS-LF**](https://github.com/stojankukrika/A2ZCMS-LF) | A2Z CMS version with Laravel framework | [:arrow_upper_right:](http://a2zcms.mrakodol.info)
 4 | [@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS**](https://github.com/stojankukrika/A2ZCMS) | A2ZCMS |
 4 | [@TheAdnan](https://github.com/TheAdnan)/[**BuVRek**](https://github.com/TheAdnan/BuVRek) | Virtual Burek | [:arrow_upper_right:](https://virtual-burek.glitch.me/)
