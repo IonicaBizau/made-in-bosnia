@@ -70,107 +70,106 @@
 
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
- | 737 | [@nenadg](https://github.com/nenadg)/[**traquer**](https://github.com/nenadg/traquer) | Records and reproduces user's in-page behavior |
-84 | [@dsanel](https://github.com/dsanel)/[**mongoose-delete**](https://github.com/dsanel/mongoose-delete) | Mongoose Soft Delete Plugin |
-43 | [@nenadg](https://github.com/nenadg)/[**twitter-stream-visua…**](https://github.com/nenadg/twitter-stream-visualization) | Visualizing realtime Twitter data using D3.js, node and several other things and libs | [:arrow_upper_right:](http://statick.org:3001)
-25 | [@amir-hadzic](https://github.com/amir-hadzic)/[**uedit**](https://github.com/amir-hadzic/uedit) | Simple cross-browser markdown editor | [:arrow_upper_right:](http://www.randomshouting.com/uedit)
-23 | [@adnanrahic](https://github.com/adnanrahic)/[**nodejs-restful-api**](https://github.com/adnanrahic/nodejs-restful-api) | Simple Node.js REST API Tutorial |
-7 | [@nenadg](https://github.com/nenadg)/[**otvoreni-budzet**](https://github.com/nenadg/otvoreni-budzet) | Digitalnija verzija budžeta Republike Srpske |
-6 | [@dsanel](https://github.com/dsanel)/[**mongodg**](https://github.com/dsanel/mongodg) | MongoDB Data Generator |
-6 | [@TheAdnan](https://github.com/TheAdnan)/[**focustube**](https://github.com/TheAdnan/focustube) | Firefox WebExtension for watching YouTube videos while scrolling down the comments | [:arrow_upper_right:](https://addons.mozilla.org/en-US/firefox/addon/focus-tube/)
-6 | [@TheAdnan](https://github.com/TheAdnan)/[**Botnjak**](https://github.com/TheAdnan/Botnjak) | Twitter bot script written in PHP | [:arrow_upper_right:](https://twitter.com/botnjak)
-5 | [@nenadg](https://github.com/nenadg)/[**jasmine-node-jsdom-e…**](https://github.com/nenadg/jasmine-node-jsdom-extjs-testing-tool) | Functional front-end Ext.JS testing automation tool using jasmine-node and jsdom |
-5 | [@adnanrahic](https://github.com/adnanrahic)/[**boilerplate-api**](https://github.com/adnanrahic/boilerplate-api) | Lightweight Node.js boilerplate API with Docker support, test coverage and circle.ci support. |
-4 | [@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS-LF**](https://github.com/stojankukrika/A2ZCMS-LF) | A2Z CMS version with Laravel framework | [:arrow_upper_right:](http://a2zcms.mrakodol.info)
-4 | [@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS**](https://github.com/stojankukrika/A2ZCMS) | A2ZCMS |
-4 | [@TheAdnan](https://github.com/TheAdnan)/[**BuVRek**](https://github.com/TheAdnan/BuVRek) | Virtual Burek | [:arrow_upper_right:](https://virtual-burek.glitch.me/)
-2 | [@amir-hadzic](https://github.com/amir-hadzic)/[**jscommits**](https://github.com/amir-hadzic/jscommits) | Javascript widget for showing latest github commits | [:arrow_upper_right:](http://www.randomshouting.com/jscommits)
-2 | [@elektronika-ba](https://github.com/elektronika-ba)/[**ctrl-server**](https://github.com/elektronika-ba/ctrl-server) |   NodeJS server for the CTRL IoT project | [:arrow_upper_right:](http://www.ctrl.ba)
-2 | [@nenadg](https://github.com/nenadg)/[**extjs-tag-cloud**](https://github.com/nenadg/extjs-tag-cloud) | Ext JS tag cloud component |  |
+ | <img src="https://img.shields.io/github/stars/nenadg/traquer?color=black&label=%20"> | [@nenadg](https://github.com/nenadg)/[**traquer**](https://github.com/nenadg/traquer) | Records and reproduces user's in-page behavior |
+<img src="https://img.shields.io/github/stars/dsanel/mongoose-delete?color=black&label=%20">| [@dsanel](https://github.com/dsanel)/[**mongoose-delete**](https://github.com/dsanel/mongoose-delete) | Mongoose Soft Delete Plugin |
+<img src="https://img.shields.io/github/stars/nenadg/twitter-stream-visualization?color=black&label=%20">| [@nenadg](https://github.com/nenadg)/[**twitter-stream-visua…**](https://github.com/nenadg/twitter-stream-visualization) | Visualizing realtime Twitter data using D3.js, node and several other things and libs | [:arrow_upper_right:](http://statick.org:3001)
+<img src="https://img.shields.io/github/stars/amir-hadzic/uedit?color=black&label=%20">| [@amir-hadzic](https://github.com/amir-hadzic)/[**uedit**](https://github.com/amir-hadzic/uedit) | Simple cross-browser markdown editor | [:arrow_upper_right:](http://www.randomshouting.com/uedit)
+<img src="https://img.shields.io/github/stars/adnanrahic/nodejs-restful-api?color=black&label=%20">| [@adnanrahic](https://github.com/adnanrahic)/[**nodejs-restful-api**](https://github.com/adnanrahic/nodejs-restful-api) | Simple Node.js REST API Tutorial |
+<img src="https://img.shields.io/github/stars/nenadg/otvoreni-budzet?color=black&label=%20">| [@nenadg](https://github.com/nenadg)/[**otvoreni-budzet**](https://github.com/nenadg/otvoreni-budzet) | Digitalnija verzija budžeta Republike Srpske |
+<img src="https://img.shields.io/github/stars/TheAdnan/focustube?color=black&label=%20">| [@TheAdnan](https://github.com/TheAdnan)/[**focustube**](https://github.com/TheAdnan/focustube) | Firefox WebExtension for watching YouTube videos while scrolling down the comments | [:arrow_upper_right:](https://addons.mozilla.org/en-US/firefox/addon/focus-tube/)
+<img src="https://img.shields.io/github/stars/TheAdnan/Botnjak?color=black&label=%20">| [@TheAdnan](https://github.com/TheAdnan)/[**Botnjak**](https://github.com/TheAdnan/Botnjak) | Twitter bot script written in PHP | [:arrow_upper_right:](https://twitter.com/botnjak)
+<img src="https://img.shields.io/github/stars/nenadg/jasmine-node-jsdom-extjs-testing-tool?color=black&label=%20">| [@nenadg](https://github.com/nenadg)/[**jasmine-node-jsdom-e…**](https://github.com/nenadg/jasmine-node-jsdom-extjs-testing-tool) | Functional front-end Ext.JS testing automation tool using jasmine-node and jsdom |
+<img src="https://img.shields.io/github/stars/adnanrahic/boilerplate-api?color=black&label=%20">| [@adnanrahic](https://github.com/adnanrahic)/[**boilerplate-api**](https://github.com/adnanrahic/boilerplate-api) | Lightweight Node.js boilerplate API with Docker support, test coverage and circle.ci support. |
+<img src="https://img.shields.io/github/stars/stojankukrika/A2ZCMS-LF?color=black&label=%20">| [@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS-LF**](https://github.com/stojankukrika/A2ZCMS-LF) | A2Z CMS version with Laravel framework | [:arrow_upper_right:](http://a2zcms.mrakodol.info)
+<img src="https://img.shields.io/github/stars/stojankukrika/A2ZCMS?color=black&label=%20">| [@stojankukrika](https://github.com/stojankukrika)/[**A2ZCMS**](https://github.com/stojankukrika/A2ZCMS) | A2ZCMS |
+<img src="https://img.shields.io/github/stars/TheAdnan/BuVRek?color=black&label=%20">| [@TheAdnan](https://github.com/TheAdnan)/[**BuVRek**](https://github.com/TheAdnan/BuVRek) | Virtual Burek | [:arrow_upper_right:](https://virtual-burek.glitch.me/)
+<img src="https://img.shields.io/github/stars/amir-hadzic/jscommits?color=black&label=%20">| [@amir-hadzic](https://github.com/amir-hadzic)/[**jscommits**](https://github.com/amir-hadzic/jscommits) | Javascript widget for showing latest github commits | [:arrow_upper_right:](http://www.randomshouting.com/jscommits)
+<img src="https://img.shields.io/github/stars/elektronika-ba/ctrl-server?color=black&label=%20">| [@elektronika-ba](https://github.com/elektronika-ba)/[**ctrl-server**](https://github.com/elektronika-ba/ctrl-server) |   NodeJS server for the CTRL IoT project | [:arrow_upper_right:](http://www.ctrl.ba)
+<img src="https://img.shields.io/github/stars/nenadg/extjs-tag-cloud?color=black&label=%20">| [@nenadg](https://github.com/nenadg)/[**extjs-tag-cloud**](https://github.com/nenadg/extjs-tag-cloud) | Ext JS tag cloud component |  |
 
 ### C# #
 
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
- | 132 | [@codaxy](https://github.com/codaxy)/[**wkhtmltopdf**](https://github.com/codaxy/wkhtmltopdf) | C# wrapper around excellent wkhtmltopdf console utility. |
-25 | [@borisdj](https://github.com/borisdj)/[**EFCore.BulkExtension…**](https://github.com/borisdj/EFCore.BulkExtensions) | EntityFrameworkCore Bulk Extensions for Insert Update and Delete (CUD) operations |
-17 | [@codaxy](https://github.com/codaxy)/[**dextop**](https://github.com/codaxy/dextop) | Dextop is a framework for creating RIA based on .NET and Ext JS | [:arrow_upper_right:](http://dextop.codaxy.com/showcase/)
-12 | [@codaxy](https://github.com/codaxy)/[**xlio**](https://github.com/codaxy/xlio) | Excel IO Library |
-7 | [@bhrnjica](https://github.com/bhrnjica)/[**gpdotnet**](https://github.com/bhrnjica/gpdotnet) | C# implementation of the various algorithms based on Genetic Algorithm, Genetic Programming and Artificial Neural Networks. | [:arrow_upper_right:](http://bhrnjica.net/gpdotnet)
-7 | [@codaxy](https://github.com/codaxy)/[**codereports**](https://github.com/codaxy/codereports) | Simple but powerful reporting library |
-4 | [@codaxy](https://github.com/codaxy)/[**xsd2**](https://github.com/codaxy/xsd2) | Improved version of xsd.exe |
-2 | [@dzlotrg](https://github.com/dzlotrg)/[**umbraco-dictionary-e…**](https://github.com/dzlotrg/umbraco-dictionary-export-import) | Export / Import dictionary items in umbraco backoffice | [:arrow_upper_right:](https://our.umbraco.org/projects/developer-tools/export-import-dictionary-items/)
-2 | [@codaxy](https://github.com/codaxy)/[**dextop-localizer**](https://github.com/codaxy/dextop-localizer) | Localization tool |  |
+ | <img src="https://img.shields.io/github/stars/codaxy/wkhtmltopdf?color=black&label=%20"> | [@codaxy](https://github.com/codaxy)/[**wkhtmltopdf**](https://github.com/codaxy/wkhtmltopdf) | C# wrapper around excellent wkhtmltopdf console utility. |
+<img src="https://img.shields.io/github/stars/borisdj/EFCore.BulkExtensions?color=black&label=%20">| [@borisdj](https://github.com/borisdj)/[**EFCore.BulkExtension…**](https://github.com/borisdj/EFCore.BulkExtensions) | EntityFrameworkCore Bulk Extensions for Insert Update and Delete (CUD) operations |
+<img src="https://img.shields.io/github/stars/codaxy/dextop?color=black&label=%20">| [@codaxy](https://github.com/codaxy)/[**dextop**](https://github.com/codaxy/dextop) | Dextop is a framework for creating RIA based on .NET and Ext JS | [:arrow_upper_right:](http://dextop.codaxy.com/showcase/)
+<img src="https://img.shields.io/github/stars/codaxy/xlio?color=black&label=%20">| [@codaxy](https://github.com/codaxy)/[**xlio**](https://github.com/codaxy/xlio) | Excel IO Library |
+<img src="https://img.shields.io/github/stars/bhrnjica/gpdotnet?color=black&label=%20">| [@bhrnjica](https://github.com/bhrnjica)/[**gpdotnet**](https://github.com/bhrnjica/gpdotnet) | C# implementation of the various algorithms based on Genetic Algorithm, Genetic Programming and Artificial Neural Networks. | [:arrow_upper_right:](http://bhrnjica.net/gpdotnet)
+<img src="https://img.shields.io/github/stars/codaxy/codereports?color=black&label=%20">| [@codaxy](https://github.com/codaxy)/[**codereports**](https://github.com/codaxy/codereports) | Simple but powerful reporting library |
+<img src="https://img.shields.io/github/stars/codaxy/xsd2?color=black&label=%20">| [@codaxy](https://github.com/codaxy)/[**xsd2**](https://github.com/codaxy/xsd2) | Improved version of xsd.exe |
+<img src="https://img.shields.io/github/stars/dzlotrg/umbraco-dictionary-export-import?color=black&label=%20">| [@dzlotrg](https://github.com/dzlotrg)/[**umbraco-dictionary-e…**](https://github.com/dzlotrg/umbraco-dictionary-export-import) | Export / Import dictionary items in umbraco backoffice | [:arrow_upper_right:](https://our.umbraco.org/projects/developer-tools/export-import-dictionary-items/)
+<img src="https://img.shields.io/github/stars/codaxy/dextop-localizer?color=black&label=%20">| [@codaxy](https://github.com/codaxy)/[**dextop-localizer**](https://github.com/codaxy/dextop-localizer) | Localization tool |  |
 
 ### CSS #
 
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
- | 7 | [@klikaba](https://github.com/klikaba)/[**cms9**](https://github.com/klikaba/cms9) | CMS Engine for Rails | [:arrow_upper_right:](http://klika.ba/blog/cms9-admin-panel)
-6 | [@r3bl](https://github.com/r3bl)/[**r3bl.github.io**](https://github.com/r3bl/r3bl.github.io) | The code behind my Jekyll-powered blog | [:arrow_upper_right:](https://blog.r3bl.me)
-2 | [@AlenR](https://github.com/AlenR)/[**interactive-resume-a…**](https://github.com/AlenR/interactive-resume-ar) | Interactive Resume |  |
+ | <img src="https://img.shields.io/github/stars/klikaba/cms9?color=black&label=%20"> | [@klikaba](https://github.com/klikaba)/[**cms9**](https://github.com/klikaba/cms9) | CMS Engine for Rails | [:arrow_upper_right:](http://klika.ba/blog/cms9-admin-panel)
+<img src="https://img.shields.io/github/stars/r3bl/r3bl.github.io?color=black&label=%20">| [@r3bl](https://github.com/r3bl)/[**r3bl.github.io**](https://github.com/r3bl/r3bl.github.io) | The code behind my Jekyll-powered blog | [:arrow_upper_right:](https://blog.r3bl.me)
+<img src="https://img.shields.io/github/stars/AlenR/interactive-resume-ar?color=black&label=%20">| [@AlenR](https://github.com/AlenR)/[**interactive-resume-a…**](https://github.com/AlenR/interactive-resume-ar) | Interactive Resume |  |
 
 ### C #
 
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
- | 4 | [@ArekX](https://github.com/ArekX)/[**RAGE**](https://github.com/ArekX/RAGE) | R. A. G.E. - Ruby Awesome Game Engine, a 2D Game Engine using Ruby as Interpreter Language for Games! |
-3 | [@Rox-](https://github.com/Rox-)/[**android_kernel_samsu…**](https://github.com/Rox-/android_kernel_samsung_s3ve3g) | Kernel for Samsung Galaxy S3 Neo |  |
+ | <img src="https://img.shields.io/github/stars/ArekX/RAGE?color=black&label=%20"> | [@ArekX](https://github.com/ArekX)/[**RAGE**](https://github.com/ArekX/RAGE) | R. A. G.E. - Ruby Awesome Game Engine, a 2D Game Engine using Ruby as Interpreter Language for Games! |
+<img src="https://img.shields.io/github/stars/Rox-/android_kernel_samsung_s3ve3g?color=black&label=%20">| [@Rox-](https://github.com/Rox-)/[**android_kernel_samsu…**](https://github.com/Rox-/android_kernel_samsung_s3ve3g) | Kernel for Samsung Galaxy S3 Neo |  |
 
 ### C++ #
 
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
- | 8 | [@irajkovic](https://github.com/irajkovic)/[**visualization**](https://github.com/irajkovic/visualization) | Realtime data visualization and control panel with graphical editor. Implemented in C++ and Qt. |  |
+ | <img src="https://img.shields.io/github/stars/irajkovic/visualization?color=black&label=%20"> | [@irajkovic](https://github.com/irajkovic)/[**visualization**](https://github.com/irajkovic/visualization) | Realtime data visualization and control panel with graphical editor. Implemented in C++ and Qt. |  |
 
 ### Go #
 
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
- | 5969 | [@adnanh](https://github.com/adnanh)/[**webhook**](https://github.com/adnanh/webhook) | Webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands. |  |
+ | <img src="https://img.shields.io/github/stars/adnanh/webhook?color=black&label=%20"> | [@adnanh](https://github.com/adnanh)/[**webhook**](https://github.com/adnanh/webhook) | Webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands. |  |
 
 ### PHP #
 
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
- | 935 | [@mrakodol](https://github.com/mrakodol)/[**Laravel-5-Bootstrap-…**](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site) | Laravel Framework 5 Bootstrap 3 Starter Site is a basic application with news, photo and video galeries. |
-80 | [@vernes](https://github.com/vernes)/[**YiiMailer**](https://github.com/vernes/YiiMailer) | Yii extension for sending emails with layouts using PHPMailer |
-46 | [@vernes](https://github.com/vernes)/[**PHPReport**](https://github.com/vernes/PHPReport) | Library for generating reports from PHP |
-13 | [@adnanmiljkovic](https://github.com/adnanmiljkovic)/[**Google-Contacts-Data…**](https://github.com/adnanmiljkovic/Google-Contacts-Data-API-PHP) | Get e-mail contacts from Google Contacts Data API  with PHP |
-4 | [@mrakodol](https://github.com/mrakodol)/[**admincistart**](https://github.com/mrakodol/admincistart) | codeigniter admin start project |  |
+ | <img src="https://img.shields.io/github/stars/mrakodol/Laravel-5-Bootstrap-3-Starter-Site?color=black&label=%20"> | [@mrakodol](https://github.com/mrakodol)/[**Laravel-5-Bootstrap-…**](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site) | Laravel Framework 5 Bootstrap 3 Starter Site is a basic application with news, photo and video galeries. |
+<img src="https://img.shields.io/github/stars/vernes/YiiMailer?color=black&label=%20">| [@vernes](https://github.com/vernes)/[**YiiMailer**](https://github.com/vernes/YiiMailer) | Yii extension for sending emails with layouts using PHPMailer |
+<img src="https://img.shields.io/github/stars/vernes/PHPReport?color=black&label=%20">| [@vernes](https://github.com/vernes)/[**PHPReport**](https://github.com/vernes/PHPReport) | Library for generating reports from PHP |
+<img src="https://img.shields.io/github/stars/adnanmiljkovic/Google-Contacts-Data-API-PHP?color=black&label=%20">| [@adnanmiljkovic](https://github.com/adnanmiljkovic)/[**Google-Contacts-Data…**](https://github.com/adnanmiljkovic/Google-Contacts-Data-API-PHP) | Get e-mail contacts from Google Contacts Data API  with PHP |
+<img src="https://img.shields.io/github/stars/mrakodol/admincistart?color=black&label=%20">| [@mrakodol](https://github.com/mrakodol)/[**admincistart**](https://github.com/mrakodol/admincistart) | codeigniter admin start project |  |
 
 ### Python #
 
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
- | 22 | [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)/[**notes**](https://github.com/aleksandar-todorovic/notes) | A place where I'm sharing my notes on various subjects. |
-6 | [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)/[**indicator-github**](https://github.com/aleksandar-todorovic/indicator-github) | Simple GitHub notifications indicator for elementary OS Freya, Ubuntu and its derivates. |
-4 | [@AmarKalabic](https://github.com/AmarKalabic)/[**Football-Stream-Find…**](https://github.com/AmarKalabic/Football-Stream-Finder--Flask-) | Small Flask app that fetches stream links for football/soccer games |
-4 | [@amarsahinovic](https://github.com/amarsahinovic)/[**django-project-templ…**](https://github.com/amarsahinovic/django-project-template) | Django project template with Zurb Foundation included |
-3 | [@C-REMO](https://github.com/C-REMO)/[**Deobscure-IP-Deobfus…**](https://github.com/C-REMO/Deobscure-IP-Deobfuscator) | IP deobfuscator can be used to convert obfuscated ip back ti it's original dotted value from integer, octal or hexadecimal value (or even combination of those) |
-3 | [@amarsahinovic](https://github.com/amarsahinovic)/[**gb**](https://github.com/amarsahinovic/gb) | Goto Bookmark |
-2 | [@segvic](https://github.com/segvic)/[**plugin.video.mojaweb…**](https://github.com/segvic/plugin.video.mojawebtv) | Moja webTV |  |
+ | <img src="https://img.shields.io/github/stars/aleksandar-todorovic/notes?color=black&label=%20"> | [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)/[**notes**](https://github.com/aleksandar-todorovic/notes) | A place where I'm sharing my notes on various subjects. |
+<img src="https://img.shields.io/github/stars/aleksandar-todorovic/indicator-github?color=black&label=%20">| [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)/[**indicator-github**](https://github.com/aleksandar-todorovic/indicator-github) | Simple GitHub notifications indicator for elementary OS Freya, Ubuntu and its derivates. |
+<img src="https://img.shields.io/github/stars/AmarKalabic/Football-Stream-Finder--Flask-?color=black&label=%20">| [@AmarKalabic](https://github.com/AmarKalabic)/[**Football-Stream-Find…**](https://github.com/AmarKalabic/Football-Stream-Finder--Flask-) | Small Flask app that fetches stream links for football/soccer games |
+<img src="https://img.shields.io/github/stars/amarsahinovic/django-project-template?color=black&label=%20">| [@amarsahinovic](https://github.com/amarsahinovic)/[**django-project-templ…**](https://github.com/amarsahinovic/django-project-template) | Django project template with Zurb Foundation included |
+<img src="https://img.shields.io/github/stars/C-REMO/Deobscure-IP-Deobfuscator?color=black&label=%20">| [@C-REMO](https://github.com/C-REMO)/[**Deobscure-IP-Deobfus…**](https://github.com/C-REMO/Deobscure-IP-Deobfuscator) | IP deobfuscator can be used to convert obfuscated ip back ti it's original dotted value from integer, octal or hexadecimal value (or even combination of those) |
+<img src="https://img.shields.io/github/stars/amarsahinovic/gb?color=black&label=%20">| [@amarsahinovic](https://github.com/amarsahinovic)/[**gb**](https://github.com/amarsahinovic/gb) | Goto Bookmark |
+<img src="https://img.shields.io/github/stars/segvic/plugin.video.mojawebtv?color=black&label=%20">| [@segvic](https://github.com/segvic)/[**plugin.video.mojaweb…**](https://github.com/segvic/plugin.video.mojawebtv) | Moja webTV |  |
 
 ### Ruby #
 
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
- | 28 | [@sidonath](https://github.com/sidonath)/[**room-reservation**](https://github.com/sidonath/room-reservation) |  |
-5 | [@hkraji](https://github.com/hkraji)/[**mx-validator**](https://github.com/hkraji/mx-validator) | Validate emails via MX records | [:arrow_upper_right:](https://rubygems.org/gems/mx-validator/versions/0.0.1)
-2 | [@hkraji](https://github.com/hkraji)/[**fertilizer**](https://github.com/hkraji/fertilizer) | Set of tasks that allows us to enrich our Rails projects. |  |
+ | <img src="https://img.shields.io/github/stars/sidonath/room-reservation?color=black&label=%20"> | [@sidonath](https://github.com/sidonath)/[**room-reservation**](https://github.com/sidonath/room-reservation) |  |
+<img src="https://img.shields.io/github/stars/hkraji/mx-validator?color=black&label=%20">| [@hkraji](https://github.com/hkraji)/[**mx-validator**](https://github.com/hkraji/mx-validator) | Validate emails via MX records | [:arrow_upper_right:](https://rubygems.org/gems/mx-validator/versions/0.0.1)
+<img src="https://img.shields.io/github/stars/hkraji/fertilizer?color=black&label=%20">| [@hkraji](https://github.com/hkraji)/[**fertilizer**](https://github.com/hkraji/fertilizer) | Set of tasks that allows us to enrich our Rails projects. |  |
 
 ### Scala #
 
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
- | 5 | [@sake92](https://github.com/sake92)/[**sbt-hepek**](https://github.com/sake92/sbt-hepek) | Sbt plugin for rendering static web sites. And more! |
-1 | [@sake92](https://github.com/sake92)/[**sake-ba-source**](https://github.com/sake92/sake-ba-source) | sake.ba source code | [:arrow_upper_right:](https://sake.ba) |
+ | <img src="https://img.shields.io/github/stars/sake92/sbt-hepek?color=black&label=%20"> | [@sake92](https://github.com/sake92)/[**sbt-hepek**](https://github.com/sake92/sbt-hepek) | Sbt plugin for rendering static web sites. And more! |
+<img src="https://img.shields.io/github/stars/sake92/sake-ba-source?color=black&label=%20">| [@sake92](https://github.com/sake92)/[**sake-ba-source**](https://github.com/sake92/sake-ba-source) | sake.ba source code | [:arrow_upper_right:](https://sake.ba) |
 
 ### TypeScript #
 
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
- | 875 | [@vladotesanovic](https://github.com/vladotesanovic)/[**ngSemantic**](https://github.com/vladotesanovic/ngSemantic) | Angular 2 building blocks 📦 based on Semantic UI. |  |
+ | <img src="https://img.shields.io/github/stars/vladotesanovic/ngSemantic?color=black&label=%20"> | [@vladotesanovic](https://github.com/vladotesanovic)/[**ngSemantic**](https://github.com/vladotesanovic/ngSemantic) | Angular 2 building blocks 📦 based on Semantic UI. |  |
 
 
 
